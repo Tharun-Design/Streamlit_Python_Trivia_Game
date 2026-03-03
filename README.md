@@ -1,4 +1,4 @@
-# 🐍 Python Trivia Game (Streamlit)
+# Python Trivia Game (Streamlit)
 
 An interactive **Python quiz application** built using **Streamlit** that tests users’ knowledge of Python programming fundamentals.
 
@@ -8,7 +8,7 @@ This project demonstrates how Python can be used to build lightweight interactiv
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 Learning programming becomes more engaging when combined with interactive tools.  
 This application provides a simple and fun way to test Python knowledge through a trivia-style quiz.
@@ -19,7 +19,7 @@ At the end of the game, users receive their final score and can restart the game
 
 ---
 
-# ✨ Features
+# Features
 
 ### Interactive Quiz Interface
 A clean and simple interface built with Streamlit for answering questions.
@@ -41,7 +41,7 @@ Players can restart the quiz after completing the game.
 
 ---
 
-# 🧠 Concepts Demonstrated
+# Concepts Demonstrated
 
 This project showcases several Python and Streamlit concepts:
 
@@ -54,7 +54,7 @@ This project showcases several Python and Streamlit concepts:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 **Language**
 - Python
@@ -68,7 +68,7 @@ This project showcases several Python and Streamlit concepts:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 python-trivia-game
@@ -79,7 +79,7 @@ python-trivia-game
 
 ---
 
-# ▶️ How to Run the Project
+# How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -109,7 +109,7 @@ The application will open automatically in your browser.
 
 ---
 
-# 🎮 How the Game Works
+# How the Game Works
 
 1. The system randomly selects 5 questions.
 2. The user submits answers through the interface.
@@ -119,7 +119,7 @@ The application will open automatically in your browser.
 
 ---
 
-# 📊 Example Gameplay
+# Example Gameplay
 
 Question:
 ```
@@ -138,7 +138,7 @@ Correct! 🎉
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible enhancements include:
 
@@ -152,7 +152,7 @@ Possible enhancements include:
 
 ---
 
-# 📚 Learning Outcome
+# Learning Outcome
 
 Through this project, the following skills were strengthened:
 
@@ -163,7 +163,7 @@ Through this project, the following skills were strengthened:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Tharun Kumar S**
 
